@@ -2,46 +2,58 @@
 
 ### Data Science & Machine Learning Learner
 
-I am building practical projects in **Python, Data Science, Machine Learning, SQL, and Data Analysis**. I enjoy turning datasets into useful insights and learning by building end-to-end projects.
+I build practical projects in **Python, SQL, Machine Learning, Data Analysis, Java and DSA**. My focus is on learning by building projects that demonstrate real-world problem solving.
 
 ## 🚀 Featured Projects
 
-| Project | Description | Skills |
-|---|---|---|
-| 🏠 [House Price Prediction](./src/house_price_prediction.py) | Predict house prices using regression models | Python, Pandas, Scikit-learn |
-| 🦠 [COVID-19 India Data Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) | Analyse COVID-19 trends and statistics in India | Python, Pandas, Data Visualisation |
-| 👥 Customer Churn Prediction | Predict customers likely to leave a service | Logistic Regression, Random Forest |
-| 💳 Credit Card Fraud Detection | Detect potentially fraudulent transactions | Random Forest, Classification |
-| 📊 Sales Data Analysis | Analyse sales performance and revenue trends | Pandas, Matplotlib |
+| Project | What it demonstrates |
+|---|---|
+| 🏠 [House Price Prediction](./src/house_price_prediction.py) | Regression, preprocessing, model evaluation |
+| 🦠 [COVID-19 India Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) | Data cleaning, analysis and visualisation |
+| 📊 [SQL Projects](https://github.com/Akr0333/SQL) | Database design, analytics, joins, CTEs and windows |
+| ☕ [Java Projects](https://github.com/Akr0333/java) | OOP and console-based applications |
+| 🧠 [DSA Projects](https://github.com/Akr0333/DSA) | Algorithms, data structures and problem solving |
+| 🤖 Customer Churn Prediction | Classification and feature preprocessing |
+| 💳 Credit Card Fraud Detection | Imbalanced classification and evaluation |
+| 📈 Sales Data Analysis | Business analytics and revenue trends |
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-- **Languages:** Python, Java, C++, SQL
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning:** Linear Regression, Logistic Regression, KNN, SVM, Decision Trees, Random Forest, Naive Bayes, Neural Networks
-- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub
-- **Database:** SQL / RDBMS
+**Languages**  
+Python • SQL • Java • C++
 
-## 📌 Current Focus
+**Data & ML**  
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
 
-- Machine Learning fundamentals
-- Data analysis and visualisation
-- SQL and database concepts
-- Building portfolio-ready projects
-- Improving Python and problem-solving skills
+**Machine Learning**  
+Linear Regression • Logistic Regression • KNN • SVM • Decision Trees • Random Forest • Naive Bayes • Neural Networks
 
-## 📂 Portfolio Repository
+**Databases**  
+SQL • RDBMS • Joins • CTEs • Subqueries • Window Functions • Normalisation
 
-The `data-science-portfolio` folder contains additional projects covering:
+**Tools**  
+Jupyter Notebook • Google Colab • Git • GitHub
 
-- Customer Churn Prediction
-- Credit Card Fraud Detection
-- Sales Data Analysis
+## 📚 What I'm Currently Building
+
+- Real-world Data Science projects
+- SQL analytics projects
+- Machine Learning models
+- DSA implementations
+- Java OOP applications
 
 ## 🎯 Goal
 
-To become a strong **Data Scientist / Machine Learning Engineer** by consistently building real-world projects and strengthening my programming and analytical skills.
+Become a strong **Data Scientist / Machine Learning Engineer** by combining programming, statistics, SQL, machine learning and practical project experience.
+
+## 📂 Repository Map
+
+- **SQL** → analytics and database projects
+- **DSA** → algorithms and data structures
+- **java** → Java/OOP projects
+- **COVID19-India-Data-Analysis** → data analysis project
+- **Akr0333** → portfolio/profile repository
 
 ---
 
-⭐ Feel free to explore my repositories and follow my learning journey!
+⭐ **Building. Learning. Improving. One project at a time.**
