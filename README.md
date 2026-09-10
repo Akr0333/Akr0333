@@ -1,60 +1,47 @@
-# Data Science Portfolio — House Price Prediction
+# Hi, I'm Adarsh 👋
 
-An end-to-end **Data Science and Machine Learning** project that predicts California house prices using the Scikit-learn California Housing dataset.
+### Data Science & Machine Learning Learner
 
-## Project Highlights
+I am building practical projects in **Python, Data Science, Machine Learning, SQL, and Data Analysis**. I enjoy turning datasets into useful insights and learning by building end-to-end projects.
 
-- Data loading and validation
-- Exploratory Data Analysis (EDA)
-- Correlation analysis and visualisation
-- Feature/target preparation
-- Train/test split and feature scaling
-- Linear Regression baseline
-- Random Forest Regression
-- Model evaluation with MAE, RMSE and R²
-- Feature importance analysis
-- Reproducible Python workflow
+## 🚀 Featured Projects
 
-## Tech Stack
+| Project | Description | Skills |
+|---|---|---|
+| 🏠 [House Price Prediction](./src/house_price_prediction.py) | Predict house prices using regression models | Python, Pandas, Scikit-learn |
+| 🦠 [COVID-19 India Data Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) | Analyse COVID-19 trends and statistics in India | Python, Pandas, Data Visualisation |
+| 👥 Customer Churn Prediction | Predict customers likely to leave a service | Logistic Regression, Random Forest |
+| 💳 Credit Card Fraud Detection | Detect potentially fraudulent transactions | Random Forest, Classification |
+| 📊 Sales Data Analysis | Analyse sales performance and revenue trends | Pandas, Matplotlib |
 
-Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
+## 🛠️ Skills & Technologies
 
-## Project Structure
+- **Languages:** Python, Java, C++, SQL
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Linear Regression, Logistic Regression, KNN, SVM, Decision Trees, Random Forest, Naive Bayes, Neural Networks
+- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub
+- **Database:** SQL / RDBMS
 
-```text
-.
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── src/
-│   └── house_price_prediction.py
-└── notebooks/
-    └── house_price_prediction.ipynb
-```
+## 📌 Current Focus
 
-## How to Run
+- Machine Learning fundamentals
+- Data analysis and visualisation
+- SQL and database concepts
+- Building portfolio-ready projects
+- Improving Python and problem-solving skills
 
-```bash
-git clone https://github.com/Akr0333/Akr0333.git
-cd Akr0333
-pip install -r requirements.txt
-python src/house_price_prediction.py
-```
+## 📂 Portfolio Repository
 
-The script downloads the California Housing dataset through Scikit-learn, so no dataset file needs to be committed.
+The `data-science-portfolio` folder contains additional projects covering:
 
-## What I Learned
+- Customer Churn Prediction
+- Credit Card Fraud Detection
+- Sales Data Analysis
 
-This project demonstrates a complete beginner-to-intermediate machine-learning workflow: understanding data, exploring patterns, preparing features, training multiple regression models, comparing metrics, and interpreting model behaviour.
+## 🎯 Goal
 
-## Results
+To become a strong **Data Scientist / Machine Learning Engineer** by consistently building real-world projects and strengthening my programming and analytical skills.
 
-The script prints MAE, RMSE and R² for both models and identifies the most important features from the Random Forest model. Exact results can vary slightly with library versions.
+---
 
-## Future Improvements
-
-- Hyperparameter tuning with GridSearchCV
-- Cross-validation
-- Streamlit prediction dashboard
-- Experiment tracking
-- Model deployment with an API
+⭐ Feel free to explore my repositories and follow my learning journey!
