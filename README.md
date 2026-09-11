@@ -11,8 +11,11 @@ I build practical projects in **Python, SQL, Machine Learning, Data Analysis, Ja
 | 🏠 [House Price Prediction](https://github.com/Akr0333/Akr0333/blob/main/src/house_price_prediction.py) | Regression, preprocessing, model evaluation |
 | 🦠 [COVID-19 India Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) | Data cleaning, analysis and visualisation |
 | 🤖 [Loan Approval Prediction](https://github.com/Akr0333/Machine-Learning/tree/main/projects/loan-approval-prediction) | Classification, preprocessing and model evaluation |
+| 🛡️ [Fraud Detection](https://github.com/Akr0333/Machine-Learning/tree/main/projects/fraud-detection) | Imbalanced classification, pipelines and model evaluation |
 | 📊 [E-commerce Sales Analytics](https://github.com/Akr0333/SQL/tree/main/projects/ecommerce-sales-analytics) | CTEs, joins, aggregations and window functions |
+| 👥 [HR Analytics SQL](https://github.com/Akr0333/SQL/tree/main/projects/hr-analytics) | Workforce metrics, CTEs, CASE and window functions |
 | 💰 [Java Expense Tracker](https://github.com/Akr0333/java/tree/main/projects/expense-tracker) | Java OOP, collections and input validation |
+| 📚 [Library Management System](https://github.com/Akr0333/java/tree/main/projects/library-management) | Java OOP, collections and application flow |
 | 🧠 [DSA Projects](https://github.com/Akr0333/DSA) | Algorithms, data structures and problem solving |
 | 🤖 [Machine Learning](https://github.com/Akr0333/Machine-Learning) | Machine learning algorithms and practical modelling |
 | 📉 [Customer Churn Prediction](https://github.com/Akr0333/customer-churn-prediction) | Classification and feature preprocessing |
