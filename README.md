@@ -8,14 +8,14 @@ I build practical projects in **Python, SQL, Machine Learning, Data Analysis, Ja
 
 | Project | What it demonstrates |
 |---|---|
-| 🏠 [House Price Prediction](./src/house_price_prediction.py) | Regression, preprocessing, model evaluation |
+| 🏠 [House Price Prediction](https://github.com/Akr0333/Akr0333/blob/main/src/house_price_prediction.py) | Regression, preprocessing, model evaluation |
 | 🦠 [COVID-19 India Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) | Data cleaning, analysis and visualisation |
-| 📊 [SQL Projects](https://github.com/Akr0333/SQL) | Database design, analytics, joins, CTEs and windows |
+| 📊 [SQL Projects](https://github.com/Akr0333/SQL) | Database design, analytics, joins, CTEs and window functions |
 | ☕ [Java Projects](https://github.com/Akr0333/java) | OOP and console-based applications |
 | 🧠 [DSA Projects](https://github.com/Akr0333/DSA) | Algorithms, data structures and problem solving |
-| 🤖 Customer Churn Prediction | Classification and feature preprocessing |
-| 💳 Credit Card Fraud Detection | Imbalanced classification and evaluation |
-| 📈 Sales Data Analysis | Business analytics and revenue trends |
+| 🤖 [Machine Learning](https://github.com/Akr0333/Machine-Learning) | Machine learning algorithms and practical modelling |
+| 📉 [Customer Churn Prediction](https://github.com/Akr0333/customer-churn-prediction) | Classification and feature preprocessing |
+| 📚 [AI Document QA — RAG](https://github.com/Akr0333/AI-Document-QA-RAG) | Retrieval-Augmented Generation and document question answering |
 
 ## 🛠️ Tech Stack
 
@@ -36,11 +36,11 @@ Jupyter Notebook • Google Colab • Git • GitHub
 
 ## 📚 What I'm Currently Building
 
-- Real-world Data Science projects
-- SQL analytics projects
-- Machine Learning models
-- DSA implementations
-- Java OOP applications
+- [Real-world Data Science projects](https://github.com/Akr0333/COVID19-India-Data-Analysis)
+- [SQL analytics projects](https://github.com/Akr0333/SQL)
+- [Machine Learning models](https://github.com/Akr0333/Machine-Learning)
+- [DSA implementations](https://github.com/Akr0333/DSA)
+- [Java OOP applications](https://github.com/Akr0333/java)
 
 ## 🎯 Goal
 
@@ -48,11 +48,14 @@ Become a strong **Data Scientist / Machine Learning Engineer** by combining prog
 
 ## 📂 Repository Map
 
-- **SQL** → analytics and database projects
-- **DSA** → algorithms and data structures
-- **java** → Java/OOP projects
-- **COVID19-India-Data-Analysis** → data analysis project
-- **Akr0333** → portfolio/profile repository
+- [SQL](https://github.com/Akr0333/SQL) → analytics and database projects
+- [DSA](https://github.com/Akr0333/DSA) → algorithms and data structures
+- [Java](https://github.com/Akr0333/java) → Java/OOP projects
+- [Machine Learning](https://github.com/Akr0333/Machine-Learning) → ML models and experiments
+- [COVID19-India-Data-Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) → data analysis project
+- [Customer Churn Prediction](https://github.com/Akr0333/customer-churn-prediction) → classification project
+- [AI Document QA — RAG](https://github.com/Akr0333/AI-Document-QA-RAG) → AI/RAG project
+- [Profile Repository](https://github.com/Akr0333/Akr0333) → GitHub profile homepage
 
 ---
 
