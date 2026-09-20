@@ -39,13 +39,12 @@ I enjoy turning raw data into useful insights and building models and applicatio
 
 | Project | Focus | Technologies |
 |---|---|---|
+| 📈 [Customer Intelligence & Churn Analytics](https://github.com/Akr0333/Machine-Learning/tree/main/flagship_customer_analytics) | SQL + ML + dashboard | Python, SQL, Scikit-learn, Streamlit |
 | 🧠 [AI Document Q&A — RAG](https://github.com/Akr0333/AI-Document-QA-RAG) | Document question answering | Python, RAG, FAISS, NLP |
 | 📉 [Customer Churn Prediction](https://github.com/Akr0333/customer-churn-prediction) | Predictive analytics | Python, Scikit-learn |
 | 🦠 [COVID-19 India Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) | Exploratory data analysis | Pandas, Matplotlib |
-| 🏠 [Machine Learning](https://github.com/Akr0333/Machine-Learning) | End-to-end ML | Scikit-learn, Streamlit |
 | 📊 [SQL Analytics Portfolio](https://github.com/Akr0333/SQL) | Business analytics | SQL, CTEs, Window Functions |
 | 🧠 [DSA](https://github.com/Akr0333/DSA) | Algorithms & problem solving | Java |
-| ☕ [Java Projects](https://github.com/Akr0333/java) | OOP applications | Java |
 
 ---
 
@@ -53,7 +52,7 @@ I enjoy turning raw data into useful insights and building models and applicatio
 
 **Languages:** Python • SQL • Java • C++
 
-**Data:** Pandas • NumPy • Matplotlib • Seaborn • Jupyter
+**Data:** Pandas • NumPy • Matplotlib • Seaborn • Plotly • Jupyter
 
 **Machine Learning:** Scikit-learn • Regression • Classification • KNN • SVM • Decision Trees • Random Forest • Naive Bayes • Neural Networks
 
@@ -65,31 +64,19 @@ I enjoy turning raw data into useful insights and building models and applicatio
 
 ---
 
-## 📌 Repository Map
-
-- 📊 [SQL](https://github.com/Akr0333/SQL) — business analytics and advanced SQL
-- 🤖 [Machine Learning](https://github.com/Akr0333/Machine-Learning) — ML projects and experiments
-- 🧠 [AI Document QA](https://github.com/Akr0333/AI-Document-QA-RAG) — RAG application
-- 📉 [Customer Churn](https://github.com/Akr0333/customer-churn-prediction) — predictive modelling
-- 🦠 [COVID-19 India Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) — data analysis
-- 🧠 [DSA](https://github.com/Akr0333/DSA) — algorithms and data structures
-- ☕ [Java](https://github.com/Akr0333/java) — OOP and applications
-
----
-
 ## 🎯 2026 Focus
 
 - Build production-style ML and AI applications
 - Strengthen SQL and analytics
 - Create reproducible, documented projects
 - Improve deployment and software engineering
-- Build a portfolio that demonstrates real-world problem solving
+- Build portfolio projects around real business problems
 
 ---
 
 <div align="center">
 
-### Build • Analyse • Learn • Ship
+### Analyse • Model • Explain • Deploy
 
 ⭐ Thanks for visiting my profile.
 
