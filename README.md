@@ -4,7 +4,7 @@
 
 ### Data Analyst • Machine Learning • AI • Python • SQL
 
-Building practical data and AI projects with a focus on **analysis, prediction, automation and real-world applications**.
+Building practical data and AI projects with a focus on analysis, prediction, automation and real-world applications.
 
 <p>
 <a href="https://github.com/Akr0333">GitHub</a> •
