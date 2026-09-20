@@ -8,8 +8,7 @@ Building practical data and AI projects with a focus on analysis, prediction, au
 
 <p>
 <a href="https://github.com/Akr0333">GitHub</a> •
-<a href="https://github.com/Akr0333?tab=repositories">Projects</a> •
-<a href="https://adarsh-kumar-portfolio.floot.app">Portfolio</a>
+<a href="https://github.com/Akr0333?tab=repositories">Projects</a>
 </p>
 
 </div>
@@ -22,7 +21,7 @@ I'm a developer focused on **Data Analytics, Machine Learning and AI engineering
 
 I enjoy turning raw data into useful insights and building models and applications that solve practical problems.
 
-**Current focus:** Data Analyst → ML/AI Engineer
+**Open to:** Data Analyst • ML/AI • Python opportunities
 
 ### What I work with
 
@@ -44,7 +43,7 @@ I enjoy turning raw data into useful insights and building models and applicatio
 | 📉 [Customer Churn Prediction](https://github.com/Akr0333/customer-churn-prediction) | Predictive analytics | Python, Scikit-learn |
 | 🦠 [COVID-19 India Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) | Exploratory data analysis | Pandas, Matplotlib |
 | 🏠 [Machine Learning](https://github.com/Akr0333/Machine-Learning) | End-to-end ML | Scikit-learn, Streamlit |
-| 📊 [SQL Analytics Portfolio](https://github.com/Akr0333/SQL) | Business analytics | SQL, CTEs, Windows |
+| 📊 [SQL Analytics Portfolio](https://github.com/Akr0333/SQL) | Business analytics | SQL, CTEs, Window Functions |
 | 🧠 [DSA](https://github.com/Akr0333/DSA) | Algorithms & problem solving | Java |
 | ☕ [Java Projects](https://github.com/Akr0333/java) | OOP applications | Java |
 
@@ -60,7 +59,7 @@ I enjoy turning raw data into useful insights and building models and applicatio
 
 **AI:** NLP • Embeddings • Vector Search • RAG • Prompt Engineering • LLM APIs
 
-**Databases:** MySQL • PostgreSQL concepts • Joins • CTEs • Subqueries • Window Functions • Views • Normalisation
+**Databases:** MySQL • PostgreSQL • Joins • CTEs • Subqueries • Window Functions • Views • Normalisation
 
 **Engineering:** Git • GitHub • FastAPI • Streamlit • REST APIs • Pytest • Docker • GitHub Actions
 
@@ -84,7 +83,7 @@ I enjoy turning raw data into useful insights and building models and applicatio
 - Strengthen SQL and analytics
 - Create reproducible, documented projects
 - Improve deployment and software engineering
-- Keep learning by building and shipping
+- Build a portfolio that demonstrates real-world problem solving
 
 ---
 
