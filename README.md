@@ -17,66 +17,26 @@ I build **end-to-end data projects** that turn raw data into analysis, models, d
 
 ---
 
+## 🚀 Recruiter Quick Start
+
+If you have 60 seconds, start here:
+
+- 📈 [Customer Intelligence & Churn Analytics](https://github.com/Akr0333/Machine-Learning/tree/main/flagship_customer_analytics) — SQL + EDA + ML + Streamlit
+- 📊 [SQL Analytics Portfolio](https://github.com/Akr0333/SQL) — business analysis + advanced SQL
+- 🧠 [AI Document Q&A — RAG](https://github.com/Akr0333/AI-Document-QA-RAG) — RAG + embeddings + FAISS
+- 📉 [Customer Churn Prediction](https://github.com/Akr0333/customer-churn-prediction) — classification + evaluation
+- 🇮🇳 [COVID-19 India Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) — EDA + time-series analysis
+- 🧩 [DSA](https://github.com/Akr0333/DSA) — algorithms + interview preparation
+
+---
+
 ## 🎯 What I Do
 
 - 📊 **Data Analysis:** cleaning, EDA, KPI analysis, visualisation and business insights
 - 🗄️ **SQL:** joins, CTEs, subqueries, window functions and analytical queries
 - 🤖 **Machine Learning:** classification, regression, feature engineering and model evaluation
-- 🧠 **AI:** NLP, embeddings, vector search and RAG applications
-- 🚀 **Delivery:** Streamlit dashboards, APIs, testing, Docker and GitHub Actions
-
----
-
-## ⭐ Projects Recruiters Should See First
-
-### 1. 📈 Customer Intelligence & Churn Analytics
-**SQL + Python + Machine Learning + Streamlit**
-
-A complete business workflow answering:
-
-> Which customers are at risk of churn, why, and where should retention teams focus?
-
-**Workflow:** Business Question → SQL → EDA → Feature Engineering → ML → Evaluation → Dashboard → Business Insight
-
-[View project](https://github.com/Akr0333/Machine-Learning/tree/main/flagship_customer_analytics)
-
----
-
-### 2. 📊 SQL Analytics Portfolio
-**MySQL / PostgreSQL • CTEs • Window Functions • Business Analysis**
-
-A collection of business-oriented SQL projects covering e-commerce, banking, HR, healthcare, data warehousing and analytical problem solving.
-
-[View project](https://github.com/Akr0333/SQL)
-
----
-
-### 3. 📉 Customer Churn Prediction
-**Python • Pandas • Scikit-learn • Classification**
-
-An ML workflow covering data preparation, model training, evaluation and churn-risk analysis.
-
-[View project](https://github.com/Akr0333/customer-churn-prediction)
-
----
-
-### 4. 🦠 COVID-19 India Data Analysis
-**Python • Pandas • Matplotlib • Time-Series Analysis**
-
-Exploratory analysis of historical COVID-19 reporting across India, including trends, aggregation and visualisation.
-
-[View project](https://github.com/Akr0333/COVID19-India-Data-Analysis)
-
----
-
-### 5. 🧠 AI Document Q&A — RAG
-**Python • NLP • Embeddings • FAISS • RAG • Streamlit**
-
-A document question-answering application using semantic retrieval and an LLM to generate grounded answers with source context.
-
-[View project](https://github.com/Akr0333/AI-Document-QA-RAG)
-
----
+- 🧠 **AI/NLP:** embeddings, vector search, RAG and document question answering
+- 🚀 **Engineering:** Streamlit, APIs, testing, Docker and GitHub Actions
 
 ## 🛠️ Technical Skills
 
