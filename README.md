@@ -2,49 +2,79 @@
 
 # 👋 Hi, I'm Adarsh Kumar
 
-### Data Analyst • Machine Learning • AI • Python • SQL
+### Data Analyst | Python | SQL | Machine Learning | AI
 
-Building practical data and AI projects with a focus on analysis, prediction, automation and real-world applications.
+I build **end-to-end data projects** that turn raw data into analysis, models, dashboards and practical business insights.
+
+**Open to:** Data Analyst • Junior Data Scientist • ML/AI opportunities
 
 <p>
-<a href="https://github.com/Akr0333">GitHub</a> •
-<a href="https://github.com/Akr0333?tab=repositories">Projects</a>
+<a href="https://github.com/Akr0333">GitHub Profile</a> •
+<a href="https://github.com/Akr0333?tab=repositories">All Projects</a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 What I Do
 
-I'm a developer focused on **Data Analytics, Machine Learning and AI engineering**.
-
-I enjoy turning raw data into useful insights and building models and applications that solve practical problems.
-
-**Open to:** Data Analyst • ML/AI • Python opportunities
-
-### What I work with
-
-- 📊 Data Analysis & Visualisation
-- 🐍 Python, Pandas, NumPy
-- 🗄️ SQL & Relational Databases
-- 🤖 Machine Learning & Model Evaluation
-- 🧠 AI, NLP & RAG
-- ☕ Java, OOP & DSA
-- 🚀 APIs, Streamlit, Git & GitHub
+- 📊 **Data Analysis:** cleaning, EDA, KPI analysis, visualisation and business insights
+- 🗄️ **SQL:** joins, CTEs, subqueries, window functions and analytical queries
+- 🤖 **Machine Learning:** classification, regression, feature engineering and model evaluation
+- 🧠 **AI:** NLP, embeddings, vector search and RAG applications
+- 🚀 **Delivery:** Streamlit dashboards, APIs, testing, Docker and GitHub Actions
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Projects Recruiters Should See First
 
-| Project | Focus | Technologies |
-|---|---|---|
-| 📈 [Customer Intelligence & Churn Analytics](https://github.com/Akr0333/Machine-Learning/tree/main/flagship_customer_analytics) | SQL + ML + dashboard | Python, SQL, Scikit-learn, Streamlit |
-| 🧠 [AI Document Q&A — RAG](https://github.com/Akr0333/AI-Document-QA-RAG) | Document question answering | Python, RAG, FAISS, NLP |
-| 📉 [Customer Churn Prediction](https://github.com/Akr0333/customer-churn-prediction) | Predictive analytics | Python, Scikit-learn |
-| 🦠 [COVID-19 India Analysis](https://github.com/Akr0333/COVID19-India-Data-Analysis) | Exploratory data analysis | Pandas, Matplotlib |
-| 📊 [SQL Analytics Portfolio](https://github.com/Akr0333/SQL) | Business analytics | SQL, CTEs, Window Functions |
-| 🧠 [DSA](https://github.com/Akr0333/DSA) | Algorithms & problem solving | Java |
+### 1. 📈 Customer Intelligence & Churn Analytics
+**SQL + Python + Machine Learning + Streamlit**
+
+A complete business workflow answering:
+
+> Which customers are at risk of churn, why, and where should retention teams focus?
+
+**Workflow:** Business Question → SQL → EDA → Feature Engineering → ML → Evaluation → Dashboard → Business Insight
+
+[View project](https://github.com/Akr0333/Machine-Learning/tree/main/flagship_customer_analytics)
+
+---
+
+### 2. 📊 SQL Analytics Portfolio
+**MySQL / PostgreSQL • CTEs • Window Functions • Business Analysis**
+
+A collection of business-oriented SQL projects covering e-commerce, banking, HR, healthcare, data warehousing and analytical problem solving.
+
+[View project](https://github.com/Akr0333/SQL)
+
+---
+
+### 3. 📉 Customer Churn Prediction
+**Python • Pandas • Scikit-learn • Classification**
+
+An ML workflow covering data preparation, model training, evaluation and churn-risk analysis.
+
+[View project](https://github.com/Akr0333/customer-churn-prediction)
+
+---
+
+### 4. 🦠 COVID-19 India Data Analysis
+**Python • Pandas • Matplotlib • Time-Series Analysis**
+
+Exploratory analysis of historical COVID-19 reporting across India, including trends, aggregation and visualisation.
+
+[View project](https://github.com/Akr0333/COVID19-India-Data-Analysis)
+
+---
+
+### 5. 🧠 AI Document Q&A — RAG
+**Python • NLP • Embeddings • FAISS • RAG • Streamlit**
+
+A document question-answering application using semantic retrieval and an LLM to generate grounded answers with source context.
+
+[View project](https://github.com/Akr0333/AI-Document-QA-RAG)
 
 ---
 
@@ -52,32 +82,38 @@ I enjoy turning raw data into useful insights and building models and applicatio
 
 **Languages:** Python • SQL • Java • C++
 
-**Data:** Pandas • NumPy • Matplotlib • Seaborn • Plotly • Jupyter
+**Data & Analytics:** Pandas • NumPy • Matplotlib • Seaborn • Plotly • Jupyter
 
-**Machine Learning:** Scikit-learn • Regression • Classification • KNN • SVM • Decision Trees • Random Forest • Naive Bayes • Neural Networks
+**SQL & Databases:** MySQL • PostgreSQL • Joins • CTEs • Subqueries • Window Functions • Views • Normalisation
 
-**AI:** NLP • Embeddings • Vector Search • RAG • Prompt Engineering • LLM APIs
+**Machine Learning:** Scikit-learn • Regression • Classification • Logistic Regression • KNN • SVM • Decision Trees • Random Forest • Naive Bayes • Neural Networks
 
-**Databases:** MySQL • PostgreSQL • Joins • CTEs • Subqueries • Window Functions • Views • Normalisation
+**AI / NLP:** RAG • Embeddings • Vector Search • FAISS • NLP • Prompt Engineering • LLM APIs
 
-**Engineering:** Git • GitHub • FastAPI • Streamlit • REST APIs • Pytest • Docker • GitHub Actions
+**Engineering:** Git • GitHub • Streamlit • FastAPI • REST APIs • Pytest • Docker • GitHub Actions
 
 ---
 
-## 🎯 2026 Focus
+## 📌 Portfolio Philosophy
 
-- Build production-style ML and AI applications
-- Strengthen SQL and analytics
-- Create reproducible, documented projects
-- Improve deployment and software engineering
-- Build portfolio projects around real business problems
+I focus on projects that demonstrate the complete workflow:
+
+**Business Question → Data → Analysis → Model → Insight → Application**
+
+I prefer reproducible projects with clear documentation, meaningful questions and results that can be explained in an interview.
+
+---
+
+## 📬 Currently Looking For
+
+**Data Analyst | Junior Data Scientist | ML/AI Intern / Entry-Level Roles**
+
+If a project on this profile is relevant to your team, feel free to explore the code and project documentation.
 
 ---
 
 <div align="center">
 
 ### Analyse • Model • Explain • Deploy
-
-⭐ Thanks for visiting my profile.
 
 </div>
